@@ -1,0 +1,12 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "Boats",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_boat_01_orange_001",
+        "prod_boat_01_blue_001",
+        "prod_boat_01_black_001",
+        "prod_boat_01_camo_001"
+    ]
+}
