@@ -1,0 +1,11 @@
+{
+    "className": "boat_01_blue",
+    "coefficient": 1,
+    "maxStock": -1,
+    "tradeQuantity": 524388,
+    "buyPrice": 5000,
+    "sellPrice": 3000,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

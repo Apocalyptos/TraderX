@@ -1,0 +1,26 @@
+{
+    "className": "civiliansedan",
+    "coefficient": 1,
+    "maxStock": -1,
+    "tradeQuantity": 524388,
+    "buyPrice": 20000,
+    "sellPrice": 11000,
+    "stockSettings": 0,
+    "attachments": [
+        "prod_civsedanhood_001",
+        "prod_civsedantrunk_001",
+        "prod_civsedandoors_driver_001",
+        "prod_civsedandoors_codriver_001",
+        "prod_civsedandoors_backleft_001",
+        "prod_civsedandoors_backright_001",
+        "prod_civsedanwheel_001",
+        "prod_carbattery_001",
+        "prod_sparkplug_001",
+        "prod_carradiator_001",
+        "prod_headlighth7_box_001"
+    ],
+    "variants": [
+        "prod_civiliansedan_wine_001",
+        "prod_civiliansedan_black_001"
+    ]
+}
