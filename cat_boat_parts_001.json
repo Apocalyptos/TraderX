@@ -1,0 +1,10 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "Boat Parts",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_sparkplug_001",
+		"prod_canistergasoline_001"
+    ]
+}
