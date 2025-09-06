@@ -1,0 +1,26 @@
+{
+    "productId": "prod_offroadhatchback_blue_001",
+    "defaultPresetId": "preset_prod_offroadhatchback_blue_001_complete_001",
+    "presets": [
+        {
+            "presetName": "Complete Vehicle",
+            "presetId": "preset_prod_offroadhatchback_blue_001_complete_001",
+            "productId": "prod_offroadhatchback_blue_001",
+            "attachments": [
+                "prod_hatchbackhood_blue_001",
+                "prod_hatchbacktrunk_blue_001",
+                "prod_hatchbackdoors_driver_blue_001",
+                "prod_hatchbackdoors_codriver_blue_001",
+                "prod_hatchbackwheel_001",
+                "prod_hatchbackwheel_001",
+                "prod_hatchbackwheel_001",
+                "prod_hatchbackwheel_001",
+				"prod_hatchbackwheel_001",
+                "prod_carbattery_001",
+                "prod_sparkplug_001",
+                "prod_carradiator_001",
+                "prod_headlighth7_box_001"
+            ]
+        }
+    ]    
+}

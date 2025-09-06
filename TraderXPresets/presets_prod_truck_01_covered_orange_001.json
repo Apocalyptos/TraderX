@@ -1,0 +1,29 @@
+{
+    "productId": "prod_truck_01_covered_orange_001",
+    "defaultPresetId": "preset_prod_truck_01_covered_orange_001_complete_001",
+    "presets": [
+        {
+            "presetName": "Complete Vehicle",
+            "presetId": "preset_prod_truck_01_covered_orange_001_complete_001",
+            "productId": "prod_truck_01_covered_orange_001",
+            "attachments": [
+                "prod_truck_01_hood_orange_001",
+                "prod_truck_01_door_1_1_orange_001",
+                "prod_truck_01_door_2_1_orange_001",
+                "prod_truck_01_wheel_001",
+                "prod_truck_01_wheel_001",
+				"prod_truck_01_wheel_001",
+				"prod_truck_01_wheel_001",
+                "prod_truck_01_wheeldouble_001",
+                "prod_truck_01_wheeldouble_001",
+				"prod_truck_01_wheeldouble_001",
+				"prod_truck_01_wheeldouble_001",
+                "prod_truckbattery_001",
+                "prod_sparkplug_001",
+                "prod_carradiator_001",
+                "prod_headlighth7_box_001",
+                "prod_engineoil_001"
+            ]
+        }
+    ]    
+}

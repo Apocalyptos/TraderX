@@ -1,0 +1,28 @@
+{
+    "productId": "prod_sedan_02_grey_001",
+    "defaultPresetId": "preset_prod_sedan_02_grey_001_complete_001",
+    "presets": [
+        {
+            "presetName": "Complete Vehicle",
+            "presetId": "preset_prod_sedan_02_grey_001_complete_001",
+            "productId": "prod_sedan_02_grey_001",
+            "attachments": [
+                "prod_sedan_02_hood_grey_001",
+                "prod_sedan_02_trunk_grey_001",
+                "prod_sedan_02_door_1_1_grey_001",
+                "prod_sedan_02_door_1_2_grey_001",
+                "prod_sedan_02_door_2_1_grey_001",
+                "prod_sedan_02_door_2_2_grey_001",
+                "prod_sedan_02_wheel_001",
+                "prod_sedan_02_wheel_001",
+                "prod_sedan_02_wheel_001",
+                "prod_sedan_02_wheel_001",
+				"prod_sedan_02_wheel_001",
+                "prod_carbattery_001",
+                "prod_sparkplug_001",
+                "prod_carradiator_001",
+                "prod_headlighth7_box_001"
+            ]
+        }
+    ]    
+}

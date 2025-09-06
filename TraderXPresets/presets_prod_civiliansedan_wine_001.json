@@ -1,0 +1,28 @@
+{
+    "productId": "prod_civiliansedan_wine_001",
+    "defaultPresetId": "preset_prod_civiliansedan_wine_001_complete_001",
+    "presets": [
+        {
+            "presetName": "Complete Vehicle",
+            "presetId": "preset_prod_civiliansedan_wine_001_complete_001",
+            "productId": "prod_civiliansedan_wine_001",
+            "attachments": [
+                "prod_civsedanhood_wine_001",
+                "prod_civsedantrunk_wine_001",
+                "prod_civsedandoors_driver_wine_001",
+                "prod_civsedandoors_codriver_wine_001",
+                "prod_civsedandoors_backleft_wine_001",
+                "prod_civsedandoors_backright_wine_001",
+                "prod_civsedanwheel_001",
+                "prod_civsedanwheel_001",
+                "prod_civsedanwheel_001",
+                "prod_civsedanwheel_001",
+				"prod_civsedanwheel_001",
+                "prod_carbattery_001",
+                "prod_sparkplug_001",
+                "prod_carradiator_001",
+                "prod_headlighth7_box_001"
+            ]
+        }
+    ]    
+}

@@ -1,0 +1,28 @@
+{
+    "productId": "prod_hatchback_02_blue_001",
+    "defaultPresetId": "preset_prod_hatchback_02_blue_001_complete_001",
+    "presets": [
+        {
+            "presetName": "Complete Vehicle",
+            "presetId": "preset_prod_hatchback_02_blue_001_complete_001",
+            "productId": "prod_hatchback_02_blue_001",
+            "attachments": [
+                "prod_hatchback_02_blue_hood_001",
+                "prod_hatchback_02_blue_trunk_001",
+                "prod_hatchback_02_door_1_1_blue_001",
+                "prod_hatchback_02_door_1_2_blue_001",
+                "prod_hatchback_02_door_2_1_blue_001",
+                "prod_hatchback_02_door_2_2_blue_001",
+                "prod_hatchback_02_wheel_001",
+                "prod_hatchback_02_wheel_001",
+                "prod_hatchback_02_wheel_001",
+                "prod_hatchback_02_wheel_001",
+				"prod_hatchback_02_wheel_001",
+                "prod_carbattery_001",
+                "prod_sparkplug_001",
+                "prod_carradiator_001",
+                "prod_headlighth7_box_001"
+            ]
+        }
+    ]    
+}

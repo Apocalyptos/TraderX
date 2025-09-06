@@ -1,0 +1,27 @@
+{
+    "productId": "prod_offroad_02_001",
+    "defaultPresetId": "preset_prod_offroad_02_001_complete_001",
+    "presets": [
+        {
+            "presetName": "Complete Vehicle",
+            "presetId": "preset_prod_offroad_02_001_complete_001",
+            "productId": "prod_offroad_02_001",
+            "attachments": [
+                "prod_offroad_02_hood_001",
+                "prod_offroad_02_trunk_001",
+                "prod_offroad_02_door_1_1_001",
+                "prod_offroad_02_door_2_1_001",
+                "prod_offroad_02_door_1_2_001",
+                "prod_offroad_02_door_2_2_001",
+                "prod_offroad_02_wheel_001",
+                "prod_offroad_02_wheel_001",
+                "prod_offroad_02_wheel_001",
+                "prod_offroad_02_wheel_001",
+				"prod_offroad_02_wheel_001",
+                "prod_carbattery_001",
+                "prod_glowplug_001",
+                "prod_headlighth7_box_001"
+            ]
+        }
+    ]    
+}

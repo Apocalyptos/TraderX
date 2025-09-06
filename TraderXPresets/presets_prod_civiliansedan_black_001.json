@@ -1,0 +1,28 @@
+{
+    "productId": "prod_civiliansedan_black_001",
+    "defaultPresetId": "preset_prod_civiliansedan_black_001_complete_001",
+    "presets": [
+        {
+            "presetName": "Complete Vehicle",
+            "presetId": "preset_prod_civiliansedan_black_001_complete_001",
+            "productId": "prod_civiliansedan_black_001",
+            "attachments": [
+                "prod_civsedanhood_black_001",
+                "prod_civsedantrunk_black_001",
+                "prod_civsedandoors_driver_black_001",
+                "prod_civsedandoors_codriver_black_001",
+                "prod_civsedandoors_backleft_black_001",
+                "prod_civsedandoors_backright_black_001",
+                "prod_civsedanwheel_001",
+                "prod_civsedanwheel_001",
+                "prod_civsedanwheel_001",
+                "prod_civsedanwheel_001",
+				"prod_civsedanwheel_001",
+                "prod_carbattery_001",
+                "prod_sparkplug_001",
+                "prod_carradiator_001",
+                "prod_headlighth7_box_001"
+            ]
+        }
+    ]    
+}
