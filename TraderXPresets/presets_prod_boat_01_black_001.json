@@ -1,0 +1,14 @@
+{
+    "productId": "prod_boat_01_black_001",
+    "defaultPresetId": "preset_prod_boat_01_black_001_complete_001",
+    "presets": [
+        {
+            "presetName": "Complete Vehicle",
+            "presetId": "preset_prod_boat_01_black_001_complete_001",
+            "productId": "prod_sedan_boat_01_black_001",
+            "attachments": [
+                "prod_sparkplug_001"
+            ]
+        }
+    ]    
+}
