@@ -1,0 +1,14 @@
+{
+    "className": "alicebag_green",
+    "coefficient": 1,
+    "maxStock": -1,
+    "tradeQuantity": 1,
+    "buyPrice": 400,
+    "sellPrice": 0,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_alicebag_black_001",
+        "prod_alicebag_camo_001"
+    ]
+}

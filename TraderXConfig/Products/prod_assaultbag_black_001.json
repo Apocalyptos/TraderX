@@ -1,0 +1,14 @@
+{
+    "className": "assaultbag_black",
+    "coefficient": 1,
+    "maxStock": -1,
+    "tradeQuantity": 1,
+    "buyPrice": 110,
+    "sellPrice": 0,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_assaultbag_green_001",
+        "prod_assaultbag_ttsko_001"
+    ]
+}

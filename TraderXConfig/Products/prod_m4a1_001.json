@@ -1,0 +1,26 @@
+{
+    "className": "m4a1",
+    "coefficient": 1,
+    "maxStock": -1,
+    "tradeQuantity": 524388,
+    "buyPrice": 1500,
+    "sellPrice": 750,
+    "stockSettings": 0,
+    "attachments": [
+        "prod_m4_rishndgrd_001",
+        "prod_m4_suppressor_001",
+        "prod_m4_plastichndgrd_001",
+        "prod_m4_oebttstck_001",
+        "prod_m4_carryhandleoptic_001",
+        "prod_m4_mpbttstck_001",
+        "prod_m4_rishndgrd_001",
+        "prod_mag_stanagcoupled_30rnd_001",
+        "prod_mag_cmag_30rnd_001",
+        "prod_mag_cmag_10rnd_001",
+        "prod_mag_cmag_40rnd_001"
+    ],
+    "variants": [
+        "prod_m4a1_green_001",
+        "prod_m4a1_black_001"
+    ]
+}

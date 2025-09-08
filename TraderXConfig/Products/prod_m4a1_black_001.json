@@ -1,0 +1,13 @@
+{
+    "className": "m4a1_black",
+    "coefficient": 1,
+    "maxStock": -1,
+    "tradeQuantity": 524388,
+    "buyPrice": 1500,
+    "sellPrice": 750,
+    "stockSettings": 0,
+    "attachments": [
+        "prod_m4_rishndgrd_001"
+    ],
+    "variants": []
+}

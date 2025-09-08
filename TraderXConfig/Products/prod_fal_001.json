@@ -1,0 +1,15 @@
+{
+    "className": "fal",
+    "coefficient": 1,
+    "maxStock": -1,
+    "tradeQuantity": 524388,
+    "buyPrice": 1000,
+    "sellPrice": 0,
+    "stockSettings": 0,
+    "attachments": [
+        "prod_fal_foldingbttstck_001",
+        "prod_fal_oebttstck_001",
+        "prod_mag_fal_20rnd_001"
+    ],
+    "variants": []
+}

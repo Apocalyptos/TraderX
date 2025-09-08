@@ -1,0 +1,11 @@
+{
+    "className": "tirerepairkit",
+    "coefficient": 1,
+    "maxStock": -1,
+    "tradeQuantity": 52435236,
+    "buyPrice": 220,
+    "sellPrice": 100,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

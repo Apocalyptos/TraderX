@@ -1,0 +1,11 @@
+{
+    "className": "ammo_12gapellets",
+    "coefficient": 1,
+    "maxStock": -1,
+    "tradeQuantity": 2097444,
+    "buyPrice": 3,
+    "sellPrice": 0,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

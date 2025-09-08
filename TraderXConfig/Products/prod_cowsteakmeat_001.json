@@ -1,0 +1,11 @@
+{
+    "className": "cowsteakmeat",
+    "coefficient": 1,
+    "maxStock": -1,
+    "tradeQuantity": 16,
+    "buyPrice": 5,
+    "sellPrice": 0,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

@@ -1,0 +1,23 @@
+{
+    "className": "akm",
+    "coefficient": 1,
+    "maxStock": -1,
+    "tradeQuantity": 524388,
+    "buyPrice": 1500,
+    "sellPrice": 0,
+    "stockSettings": 0,
+    "attachments": [
+        "prod_ak_bayonet_001",
+        "prod_ak_foldingbttstck_001",
+        "prod_ak_plasticbttstck_001",
+        "prod_ak_plastichndgrd_001",
+        "prod_ak_railhndgrd_001",
+        "prod_ak_suppressor_001",
+        "prod_ak_woodbttstck_001",
+        "prod_ak_woodhndgrd_001",
+        "prod_mag_akm_30rnd_001",
+        "prod_mag_akm_drum75rnd_001",
+        "prod_mag_akm_palm30rnd_001"
+    ],
+    "variants": []
+}

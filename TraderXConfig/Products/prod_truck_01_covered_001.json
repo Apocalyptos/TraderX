@@ -1,0 +1,25 @@
+{
+    "className": "truck_01_covered",
+    "coefficient": 1,
+    "maxStock": -1,
+    "tradeQuantity": 524388,
+    "buyPrice": 50000,
+    "sellPrice": 30000,
+    "stockSettings": 0,
+    "attachments": [
+        "prod_truck_01_hood_001",
+        "prod_truck_01_door_1_1_001",
+        "prod_truck_01_door_2_1_001",
+        "prod_truck_01_wheel_001",
+        "prod_truck_01_wheeldouble_001",
+        "prod_truckbattery_001",
+        "prod_sparkplug_001",
+        "prod_carradiator_001",
+        "prod_headlighth7_001",
+        "prod_engineoil_001"
+    ],
+    "variants": [
+        "prod_truck_01_covered_blue_001",
+        "prod_truck_01_covered_orange_001"
+    ]
+}

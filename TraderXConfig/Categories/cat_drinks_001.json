@@ -1,0 +1,14 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "Boissons",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_sodacan_cola_001",
+        "prod_sodacan_kvass_001",
+        "prod_sodacan_pipsi_001",
+        "prod_sodacan_spite_001",
+        "prod_waterbottle_001",
+        "prod_canteen_001"
+    ]
+}

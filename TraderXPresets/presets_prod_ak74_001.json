@@ -1,0 +1,16 @@
+{
+    "productId": "prod_ak74_001",
+    "defaultPresetId": "preset_prod_ak74_001_preset___2_001",
+    "presets": [
+        {
+            "presetName": "Preset - 2",
+            "presetId": "preset_prod_ak74_001_preset___2_001",
+            "productId": "prod_ak74_001",
+            "attachments": [
+                "prod_ak_railhndgrd_001",
+                "prod_ak_foldingbttstck_001",
+                "prod_mag_ak74_30rnd_001"
+            ]
+        }
+    ]    
+}

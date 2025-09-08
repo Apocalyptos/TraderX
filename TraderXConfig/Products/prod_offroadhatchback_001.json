@@ -1,0 +1,24 @@
+{
+    "className": "offroadhatchback",
+    "coefficient": 1,
+    "maxStock": -1,
+    "tradeQuantity": 524388,
+    "buyPrice": 14000,
+    "sellPrice": 8000,
+    "stockSettings": 0,
+    "attachments": [
+        "prod_hatchbackhood_001",
+        "prod_hatchbacktrunk_001",
+        "prod_hatchbackdoors_driver_001",
+        "prod_hatchbackdoors_codriver_001",
+        "prod_hatchbackwheel_001",
+        "prod_carbattery_001",
+        "prod_sparkplug_001",
+        "prod_carradiator_001",
+        "prod_headlighth7_001"
+    ],
+    "variants": [
+        "prod_offroadhatchback_blue_001",
+        "prod_offroadhatchback_white_001"
+    ]
+}

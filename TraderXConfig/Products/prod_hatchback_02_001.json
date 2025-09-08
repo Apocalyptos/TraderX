@@ -1,0 +1,26 @@
+{
+    "className": "hatchback_02",
+    "coefficient": 1,
+    "maxStock": -1,
+    "tradeQuantity": 524388,
+    "buyPrice": 16000,
+    "sellPrice": 9600,
+    "stockSettings": 0,
+    "attachments": [
+        "prod_hatchback_02_hood_001",
+        "prod_hatchback_02_trunk_001",
+        "prod_hatchback_02_door_1_1_001",
+        "prod_hatchback_02_door_1_2_001",
+        "prod_hatchback_02_door_2_1_001",
+        "prod_hatchback_02_door_2_2_001",
+        "prod_hatchback_02_wheel_001",
+        "prod_carbattery_001",
+        "prod_sparkplug_001",
+        "prod_carradiator_001",
+        "prod_headlighth7_001"
+    ],
+    "variants": [
+        "prod_hatchback_02_blue_001",
+        "prod_hatchback_02_black_001"
+    ]
+}

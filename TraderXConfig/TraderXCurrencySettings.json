@@ -1,0 +1,120 @@
+{
+    "version": "1.0.1",
+    "currencyTypes": [
+        {
+            "currencyName": "EUR",
+            "currencies": [
+                {
+                    "className": "TraderPlus_Money_Euro500",
+                    "value": 500
+                },
+                {
+                    "className": "TraderPlus_Money_Euro200",
+                    "value": 200
+                },
+                {
+                    "className": "TraderPlus_Money_Euro100",
+                    "value": 100
+                },
+                {
+                    "className": "TraderPlus_Money_Euro50",
+                    "value": 50
+                },
+                {
+                    "className": "TraderPlus_Money_Euro10",
+                    "value": 10
+                },
+                {
+                    "className": "TraderPlus_Money_Euro5",
+                    "value": 5
+                },
+                {
+                    "className": "TraderPlus_Money_Euro2",
+                    "value": 2
+                },
+                {
+                    "className": "TraderPlus_Money_Euro1",
+                    "value": 1
+                }
+            ]
+        },
+        {
+            "currencyName": "RUB",
+            "currencies": [
+                {
+                    "className": "TraderPlus_Money_Ruble5000",
+                    "value": 5000
+                },
+                {
+                    "className": "TraderPlus_Money_Ruble2000",
+                    "value": 2000
+                },
+                {
+                    "className": "TraderPlus_Money_Ruble1000",
+                    "value": 1000
+                },
+                {
+                    "className": "TraderPlus_Money_Ruble500",
+                    "value": 500
+                },
+                {
+                    "className": "TraderPlus_Money_Ruble200",
+                    "value": 200
+                },
+                {
+                    "className": "TraderPlus_Money_Ruble100",
+                    "value": 100
+                },
+                {
+                    "className": "TraderPlus_Money_Ruble50",
+                    "value": 50
+                },
+                {
+                    "className": "TraderPlus_Money_Ruble10",
+                    "value": 10
+                },
+                {
+                    "className": "TraderPlus_Money_Ruble5",
+                    "value": 5
+                },
+                {
+                    "className": "TraderPlus_Money_Ruble2_Coin",
+                    "value": 2
+                },
+                {
+                    "className": "TraderPlus_Money_Ruble1_Coin",
+                    "value": 1
+                }
+            ]
+        },
+        {
+            "currencyName": "USD",
+            "currencies": [
+                {
+                    "className": "TraderPlus_Money_Dollar100",
+                    "value": 100
+                },
+                {
+                    "className": "TraderPlus_Money_Dollar50",
+                    "value": 50
+                },
+                {
+                    "className": "TraderPlus_Money_Dollar10",
+                    "value": 10
+                },
+                {
+                    "className": "TraderPlus_Money_Dollar5",
+                    "value": 5
+                },
+                {
+                    "className": "TraderPlus_Money_Dollar2",
+                    "value": 2
+                },
+                {
+                    "className": "TraderPlus_Money_Dollar1",
+                    "value": 1
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "className": "vss",
+    "coefficient": 1,
+    "maxStock": -1,
+    "tradeQuantity": 524388,
+    "buyPrice": 1600,
+    "sellPrice": 0,
+    "stockSettings": 0,
+    "attachments": [
+        "prod_mag_vss_10rnd_001",
+        "prod_pso1optic_001",
+        "prod_pso11optic_001"
+    ],
+    "variants": []
+}

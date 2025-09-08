@@ -1,0 +1,12 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "Fournitures de cuisine et de chasse",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_purificationtablets_001",
+        "prod_pot_001",
+        "prod_tripod_001",
+        "prod_beartrap_001"
+    ]
+}
