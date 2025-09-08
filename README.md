@@ -1,4 +1,4 @@
-Files made for the DayZ mod (TraderX) created by Dmitri.
+Custom files made for the DayZ mod (TraderX) created by Dmitri.
 
 Original mod on GitHub: https://github.com/TheDmitri/TraderX
 
